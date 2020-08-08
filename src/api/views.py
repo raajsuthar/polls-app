@@ -57,3 +57,10 @@ class TestViewApi(object):
     def print_name(self):
         print("siddhesh")
 
+    """
+    hi helllo 
+    we r trying to handle conflict in commit
+
+
+    to see what happen anf how to handle it
+    """
