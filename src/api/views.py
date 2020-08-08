@@ -38,3 +38,11 @@ class ChoiceViewSet(viewsets.ModelViewSet):
     queryset = Choice.objects.all()
     serializer_class = ChoiceSerializer
     permission_classes = [permissions.IsAuthenticated]
+
+    """
+    hi helllo 
+    we r trying to handle conflict in commit
+
+
+    to see what happen anf how to handle it
+    """
