@@ -5,7 +5,7 @@ Poll app project which provides polling functionality for Questions.
 
 ### Setup Instructions
 ```
-git clone [https://github.com/raajsuthar/polls-app](https://github.com/raajsuthar/polls-app)
+git clone https://github.com/raajsuthar/polls-app
 virtualenv env_polls
 source env_polls/bin/activate
 pip install -r requirements.txt
